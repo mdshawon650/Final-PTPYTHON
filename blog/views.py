@@ -13,6 +13,12 @@ blog_post = [
         'content': "এবারের বিশ্বকাপটা মোটেও ভালো যাচ্ছে না শাহিন শাহ আফ্রিদির। এমনকি গত মাসে শ্রীলঙ্কা আর পাকিস্তানে অনুষ্ঠিত এশিয়া কাপেও তিনি খুব একটা ভালো করতে পারেননি। চোটের কারণে দীর্ঘ বিরতিটা কি তাঁর বোলিংয়ে মরচে ধরিয়ে দিল! এমন প্রশ্ন উঠছে।",
         'author': "শাহিন শাহ আফ্রিদি",
         'post_create_date': " ১৯ অক্টোবর ২০২৩"
+    },
+    {
+        'title': "Sign Language: Unlock the Deaf Culture",
+        'content': "Language is a way of human communication using symbols such as words and gestures. It helps us express our thoughts, ideas, and emotions to others. There are different forms of language including spoken language, written language, and sign language.",
+        'author': "Maruf",
+        'post_create_date': "October 14, 2023"
     }
 ]
 
